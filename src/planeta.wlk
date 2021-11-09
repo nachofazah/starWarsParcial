@@ -1,6 +1,6 @@
 import habitantes.*
 
-class Planeta 
+class Planetoide
 {
 	const property listPersonas = #{}
 	var property cantMuseos = 0
