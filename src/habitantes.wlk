@@ -2,10 +2,12 @@ import planeta.*
 
 class Ensayo {
 	
-	var energia = 10
+	const energia = 10
 	
 	method cuantaEnergia () = energia
+	
 }
+
 
 class Persona 
 {
