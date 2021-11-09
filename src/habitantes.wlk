@@ -1,4 +1,12 @@
 import planeta.*
+
+class Ensayo {
+	
+	var energia = 10
+	
+	method cuantaEnergia () = energia
+}
+
 class Persona 
 {
 	var property edad = 18
